@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EACE,WAAW","file":"app.css","sourcesContent":["@import 'sass-list-maps';\n\n.box {\n  transform: translateX(-59%);\n}\n"],"sourceRoot":"../../src"}
